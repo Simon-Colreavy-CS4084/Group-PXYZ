@@ -1,0 +1,41 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+        jcenter()
+        maven { url 'https://maven.aliyun.com/nexus/content/groups/public/' }
+    }
+    dependencies {
+//        classpath "com.android.tools.build:gradle:4.0.1"
+        classpath "com.android.tools.build:gradle:7.1.2"
+        classpath "com.google.android.libraries.mapsplatform.secrets-gradle-plugin:secrets-gradle-plugin:2.0.1"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        mavenLocal()
+        google()
+        mavenCentral()
+        flatDir {
+            dirs 'libs'
+        }
+        jcenter()
+//
+        //Bmob的maven仓库地址--必填
+        maven { url "https://raw.github.com/bmob/bmob-android-sdk/master" }
+        mavenCentral()
+        maven { url 'https://maven.aliyun.com/nexus/content/groups/public/' }
+        maven { url "https://jitpack.io" }
+        // 私有仓库地址
+//        maven { url "http://lib.gcssloop.com:8081/repository/gcssloop-central/" }
+    }
+}
+
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.youth.banner:banner:2.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6855fd50735bcf5cc1cedff7c0a92bb6/transformed/jetified-banner-2.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.1.0/204e178426b5e694e1c85be7cbb09c7bccf18a49/banner-2.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.1.0/204e178426b5e694e1c85be7cbb09c7bccf18a49/banner-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

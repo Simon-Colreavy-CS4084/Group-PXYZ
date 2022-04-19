@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jzvd:jiaozivideoplayer:7.6.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c9eb039d8083d871931e048c0f40ee3e/transformed/jetified-jiaozivideoplayer-7.6.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/7.6.0/68850dbe0779912ec58af3ad6552a48ae3063b3f/jiaozivideoplayer-7.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/7.6.0/68850dbe0779912ec58af3ad6552a48ae3063b3f/jiaozivideoplayer-7.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/7.6.0/3233bdd7d67c02219565e5287a67c7ce8ad1d770/jiaozivideoplayer-7.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/7.6.0/3233bdd7d67c02219565e5287a67c7ce8ad1d770/jiaozivideoplayer-7.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

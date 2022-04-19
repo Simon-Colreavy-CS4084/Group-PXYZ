@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rl_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/iv_top"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginRight="10dp"
+                android:background="@mipmap/ic_head" />
+
+            <TextView
+                android:id="@+id/tv_top"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/iv_top"
+                android:textColor="#444444"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_top_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_top"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/iv_top"
+                android:textColor="#888888"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/tv_show"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_top"
+            android:padding="10dp"
+            android:textColor="#444444"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/tv_show"
+            android:background="#F2F2F2" />
+
+        <cn.bingoogolapple.bgabanner.BGABanner
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_below="@+id/tv_show"
+            android:layout_marginTop="1px"
+            app:banner_indicatorGravity="right|top"
+            app:banner_isNeedShowIndicatorOnOnlyOnePage="true"
+            app:banner_isNumberIndicator="true"
+            app:banner_numberIndicatorTextColor="#496159"
+            app:banner_pointAutoPlayAble="false"
+            app:banner_pointContainerBackground="@android:color/transparent"
+            app:banner_pointTopBottomMargin="15dp"
+            app:banner_transitionEffect="alpha" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/banner"
+            android:background="#F2F2F2" />
+
+        <LinearLayout
+            android:id="@+id/ll_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/banner"
+            android:layout_marginTop="1px"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_bottom_like"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <com.sackcentury.shinebuttonlib.ShineButton
+                    android:id="@+id/sb_bottom_like"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@android:color/darker_gray"
+                    app:allow_random_color="false"
+                    app:big_shine_color="#FF6666"
+                    app:btn_color="@android:color/darker_gray"
+                    app:btn_fill_color="#FF6666"
+                    app:click_animation_duration="200"
+                    app:enable_flashing="false"
+                    app:shine_animation_duration="1500"
+                    app:shine_count="8"
+                    app:shine_turn_angle="10"
+                    app:siShape="@raw/heart"
+                    app:small_shine_color="#CC9999"
+                    app:small_shine_offset_angle="20" />
+
+                <TextView
+                    android:id="@+id/tv_bottom_like"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_bottom_comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/iv_bottom_comment"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@mipmap/ic_comment" />
+
+                <TextView
+                    android:id="@+id/tv_bottom_comment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#F2F2F2" />
+
+</LinearLayout>

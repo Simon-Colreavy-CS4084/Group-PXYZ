@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio File/myRecipe/myRecipes/app/src/main/res/layout/activity_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android Studio File/myRecipes/app/src/main/res/layout/activity_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android Studio File/myRecipes/app/src/main/res/layout/activity_recipc_foods.xml" value="0.22552083333333334" />
+        <entry key="..\:/Android Studio File/myRecipes/myRecipes/myRecipes/app/src/main/res/layout/activity_login.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/activity_maps.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/activity_recipc_detail.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/activity_recipc_edit.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/activity_recipc_foods.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/custom_info_contents.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/fragment_recipc1.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/fragment_recipc3.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/fragment_recipc4.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/layout_recipc_details_2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/layout/layout_recipc_details_5.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/myRecipes/app/src/main/res/menu/current_place_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/btn_normal.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/btn_normal1.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/btn_normal2.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/check_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/edittext_login.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/flag_01.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/flag_04.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/ok_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/search_bag.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/shape_chat_leftbg.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/shape_chat_rightbg.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/drawable/uncheck_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_edit_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_finish.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_follow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_mychat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_mychat_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_news_feed_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_news_feed_edit.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_news_feed_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_news_feed_search_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_edit.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_foods.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_search_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_recipc_step.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/activity_user_info.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/custom_info_contents.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/custom_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_recipc1.xml" value="0.46709916589434664" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_recipc2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_recipc3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_recipc4.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_recipc5.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_user1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_user2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/fragment_user3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/gv_filter_image.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_banner_image_voide_fun.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_comment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_follow_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_hint_popupwindow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_list_drop_down.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_msg_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_msg_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_news_feed.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc_details_foods.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc_details_step.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc_foods.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc_label_tv.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_recipc_step.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_root_hintpopupwindow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_search_label_tv.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/item_sel_image.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_news_feed_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_4.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_5.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/layout/layout_recipc_details_6.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/menu/current_place_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2215" />
+        <entry key="..\:/Users/Usuario/Downloads/myRecipe(1)/myRecipes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2215" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/新建文件夹" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+    <option name="OTHER_OPTIONS" value="-encoding utf-8 -charset utf-8" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout1_ll_show"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <ImageView
+            android:id="@+id/layout1_iv_show"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_photograph" />
+
+        <ImageView
+            android:id="@+id/layout1_iv_voide"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/jz_click_play_selector" />
+
+
+        <TextView
+            android:id="@+id/layout1_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/picture_icon_shadow_bg"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/layout1_tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="sdasasasdasasdfdsf"
+        android:textColor="#666666"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:id="@+id/layout1_ll_like"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <com.sackcentury.shinebuttonlib.ShineButton
+            android:id="@+id/layout1_sb_like"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@android:color/darker_gray"
+            app:allow_random_color="false"
+            app:big_shine_color="#FF6666"
+            app:btn_color="@android:color/darker_gray"
+            app:btn_fill_color="#FF6666"
+            app:click_animation_duration="200"
+            app:enable_flashing="false"
+            app:shine_animation_duration="1500"
+            app:shine_count="8"
+            app:shine_turn_angle="10"
+            app:siShape="@raw/heart"
+            app:small_shine_color="#CC9999"
+            app:small_shine_offset_angle="20" />
+
+        <TextView
+            android:id="@+id/layout1_tv_like"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:text="123"
+            android:textColor="#444444"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="#F2F2F2" />
+
+    <RelativeLayout
+        android:id="@+id/layout1_rl_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <ImageView
+            android:id="@+id/layout1_iv_top"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:background="@mipmap/ic_head" />
+
+        <TextView
+            android:id="@+id/layout1_tv_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/layout1_iv_top"
+            android:textColor="#444444"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/layout1_tv_top_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout1_tv_top"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/layout1_iv_top"
+            android:textColor="#888888"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#F2F2F2" />
+</LinearLayout>

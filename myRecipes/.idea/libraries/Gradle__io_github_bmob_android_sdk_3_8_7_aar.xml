@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.bmob:android-sdk:3.8.7@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/jars/libs/BmobSDK_3.8.7.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3247f312a42ef8f7b82f3c64a4b13c05/transformed/jetified-android-sdk-3.8.7/jars/libs/BmobSDK_3.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

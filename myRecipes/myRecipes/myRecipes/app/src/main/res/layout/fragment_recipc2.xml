@@ -1,0 +1,167 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFACD"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="10dp"
+                android:text="It seems all right! Let's add some details……"
+                android:textColor="#444444"
+                android:textSize="16sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="cookingTime"
+                    android:textColor="#444444"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+                <EditText
+                    android:id="@+id/tv_cookingTime"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:hint="00"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:maxLength="2"
+                    android:singleLine="true"
+                    android:textColor="#444444"
+                    android:inputType="number"
+                    android:textColorHint="#999999"
+                    android:textStyle="bold"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="110dp"
+                android:text="How long does the food take to cook"
+                android:textColor="#666666"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="placementTime"
+                    android:textColor="#444444"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/tv_placementTime"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:hint="00"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:maxLength="2"
+                    android:singleLine="true"
+                    android:textColor="#444444"
+                    android:inputType="number"
+                    android:textColorHint="#999999"
+                    android:textStyle="bold"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="110dp"
+                android:text="How long can the food stay"
+                android:textColor="#666666"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="bakingTime"
+                    android:textColor="#444444"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+                <EditText
+                    android:id="@+id/tv_bakingTime"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:hint="00"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:maxLength="2"
+                    android:singleLine="true"
+                    android:textColor="#444444"
+                    android:inputType="number"
+                    android:textColorHint="#999999"
+                    android:textStyle="bold"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="110dp"
+                android:text="How long does the food need to be baked"
+                android:textColor="#666666"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+

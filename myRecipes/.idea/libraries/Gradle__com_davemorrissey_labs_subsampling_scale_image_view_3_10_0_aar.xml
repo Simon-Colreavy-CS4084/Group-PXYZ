@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.davemorrissey.labs:subsampling-scale-image-view:3.10.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/81cda5ff554b422086809c8b918029d6/transformed/jetified-subsampling-scale-image-view-3.10.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/afd17bee1ed7df3a4f8dafddc3f025a6/transformed/jetified-subsampling-scale-image-view-3.10.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/81cda5ff554b422086809c8b918029d6/transformed/jetified-subsampling-scale-image-view-3.10.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/81cda5ff554b422086809c8b918029d6/transformed/jetified-subsampling-scale-image-view-3.10.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/transforms-3/81cda5ff554b422086809c8b918029d6/transformed/jetified-subsampling-scale-image-view-3.10.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/afd17bee1ed7df3a4f8dafddc3f025a6/transformed/jetified-subsampling-scale-image-view-3.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afd17bee1ed7df3a4f8dafddc3f025a6/transformed/jetified-subsampling-scale-image-view-3.10.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afd17bee1ed7df3a4f8dafddc3f025a6/transformed/jetified-subsampling-scale-image-view-3.10.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/modules-2/files-2.1/com.davemorrissey.labs/subsampling-scale-image-view/3.10.0/8375dcbd6f4743df5a52b0558454891f00790c6a/subsampling-scale-image-view-3.10.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.davemorrissey.labs/subsampling-scale-image-view/3.10.0/8375dcbd6f4743df5a52b0558454891f00790c6a/subsampling-scale-image-view-3.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../androidstudio-avd/.gradle/caches/modules-2/files-2.1/com.davemorrissey.labs/subsampling-scale-image-view/3.10.0/f8b6fcce92537289e633d523c0e75cc5501ae6f5/subsampling-scale-image-view-3.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.davemorrissey.labs/subsampling-scale-image-view/3.10.0/f8b6fcce92537289e633d523c0e75cc5501ae6f5/subsampling-scale-image-view-3.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
